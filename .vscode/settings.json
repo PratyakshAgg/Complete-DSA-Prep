@@ -21,6 +21,7 @@
         "random": "cpp",
         "ostream": "cpp",
         "chrono": "cpp",
-        "limits": "cpp"
+        "limits": "cpp",
+        "iosfwd": "cpp"
     }
 }
